@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Next.js and different tools**
 
-- 👨‍💻 All of my projects are available at [https://kazi-bilasi.netlify.app/](https://kazi-bilasi.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://kazi-bilasi.netlify.app/](https://personal-portfolio-e08ef.web.app)
 
 - 📫 How to reach me **kazibilasi@gmail.com**
 
