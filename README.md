@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **kazibilasi@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/11z4ZXMoNeR69uJ0GBG2BS2c7GRqkityF](https://drive.google.com/drive/folders/11z4ZXMoNeR69uJ0GBG2BS2c7GRqkityF)
+- 📄 Know about my experiences [https://drive.google.com/file/d/17_bfLWO7S7gdWznSVdaESnguJV5v75FF/view?usp=sharing](https://drive.google.com/file/d/17_bfLWO7S7gdWznSVdaESnguJV5v75FF/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
