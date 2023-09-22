@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kazibilasi&label=Profile%20views&color=0e75b6&style=flat" alt="kazibilasi" /> </p>
 
-- 🌱 I’m currently learning **Next.js and different tools**
+
 
 - 👨‍💻 All of my projects are available at [https://personal-portfolio-e08ef.web.app](https://personal-portfolio-e08ef.web.app)
 
