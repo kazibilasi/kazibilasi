@@ -6,11 +6,11 @@
 
 
 
-- 👨‍💻 All of my projects are available at [https://personal-portfolio-e08ef.web.app](https://personal-portfolio-e08ef.web.app)
+
 
 - 📫 How to reach me **kazibilasi@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/17_bfLWO7S7gdWznSVdaESnguJV5v75FF/view?usp=sharing](https://drive.google.com/file/d/17_bfLWO7S7gdWznSVdaESnguJV5v75FF/view?usp=sharing)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
